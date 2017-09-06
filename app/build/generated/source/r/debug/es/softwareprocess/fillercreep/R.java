@@ -28,16 +28,17 @@ public final class R {
         public static final int graphicalview=0x7f05000d;
         public static final int maingraphicalview=0x7f050008;
         public static final int newgame=0x7f050009;
+        public static final int randomNewButton=0x7f05000e;
         public static final int scoreview=0x7f05000a;
         public static final int seemap=0x7f05000c;
-        public static final int textdarkenergy=0x7f050011;
-        public static final int textdarkmatter=0x7f050012;
-        public static final int textenergy=0x7f050013;
-        public static final int textlayout=0x7f05000e;
-        public static final int textmatter=0x7f050014;
+        public static final int textdarkenergy=0x7f050012;
+        public static final int textdarkmatter=0x7f050013;
+        public static final int textenergy=0x7f050014;
+        public static final int textlayout=0x7f05000f;
+        public static final int textmatter=0x7f050015;
         public static final int textonlyview=0x7f05000b;
-        public static final int textyang=0x7f050010;
-        public static final int textyin=0x7f05000f;
+        public static final int textyang=0x7f050011;
+        public static final int textyin=0x7f050010;
         public static final int xgameenergy=0x7f050004;
     }
     public static final class layout {

@@ -39,4 +39,16 @@
         android:layout_height="wrap_content"
         android:text="@string/graphicalview" />
 
+    <Button
+        android:id="@+id/randomNewButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="I believe I can fly, You may say I'm a dreamer
+        But I'm not the only one
+I hope some day you'll join us
+And the world will be as one" />
+
+
+
 </LinearLayout>
